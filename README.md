@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmdramadn&show_icons=true&locale=en&layout=compact" alt="mohmdramadn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmdramadn&show_icons=true&locale=en" alt="mohmdramadn" /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohmdramadan)](https://github.com/anuraghazra/github-readme-stats)
